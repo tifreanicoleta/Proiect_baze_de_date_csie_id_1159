@@ -13,13 +13,13 @@ Database project for managing an IT equipment store, developed in Oracle SQL for
 This project focuses on the design and implementation of a relational database for managing the core operations of an IT equipment store. 
 
 The database includes information about:
--products
--categories
--suppliers
--customers
--orders
--payment methods
--delivery options
+- products
+- categories
+- suppliers
+- customers
+- orders
+- payment methods
+- delivery options
 
 The project includes the database design, table creation, test data and SQL queries.
 
